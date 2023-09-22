@@ -1,0 +1,57 @@
+<style>
+.milestone1{
+  background-color:blue;
+}
+.milestone2{
+  background-color:green;     
+ }
+.milestone3{
+background-color:blueviolet;
+ }
+.milestone4{
+background-color:coral;
+}
+#milestone5{
+background-color:goldenrod;
+}
+
+h2{
+font-size: 40px;
+color:aqua;
+}
+h1{
+background-color:darkgreen;
+color:rgb(rgb(148, 0, 0), rgb(79, 253, 79), rgb(9, 9, 63));
+font-size:35px;
+}
+header{
+    color:red; 
+    font-size:40px;
+    font-family:Fantasy;
+}
+
+
+header:hover {
+    color:SkyBlue; 
+}
+
+table {
+  border-collapse: collapse;
+  width: 60%;
+  margin: auto;
+  border: 2px solid black;
+}
+
+th, td {
+  border: 2px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
