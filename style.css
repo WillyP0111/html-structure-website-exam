@@ -55,3 +55,11 @@ th {
 tr:nth-child(even) {
   background-color: #f2f2f2;
 }
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+.navbar-brandmb-0h1{
+  color:red; 
+    font-size:40px;
+    font-family:Fantasy;
+}
